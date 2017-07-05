@@ -1,0 +1,34 @@
+{
+    "status": "ok",
+    "source": "techcrunch",
+    "sortBy": "top",
+    "articles": [{
+        "author": "Jon Russell",
+        "title": "Microsoft is laying off ‘thousands’ of staff in a major global sales reorganization",
+        "description": "Microsoft is poised to layoff thousands of employees worldwide in a move to reorganize its salesforce. A source with knowledge of the planned downsizing told..",
+        "url": "https://techcrunch.com/2017/07/02/microsoft-is-laying-off-thousands-of-staff/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/05/gettyimages-513711216.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-07-02T17:36:52Z"
+    }, {
+        "author": "Megan Rose Dickey",
+        "title": "The Silicon Valley blacklist",
+        "description": "What a year (life?) it’s been for white women, people of color and nonbinary people in tech.",
+        "url": "https://techcrunch.com/2017/07/02/silicon-valley-blacklist/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/07/turner-fire-uber-binary.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-07-02T16:19:10Z"
+    }, {
+        "author": "Joanna Glasner",
+        "title": "These cities in California’s East Bay are raking in venture capital",
+        "description": "San Francisco Bay Area companies raise so much venture capital relative to other places that a lot of little-known cities in the region outrank major..",
+        "url": "https://techcrunch.com/2017/07/01/these-east-bay-cities-are-raking-in-venture-capital/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/06/east-bay.png?w=764&h=400&crop=1",
+        "publishedAt": "2017-07-01T16:00:40Z"
+    }, {
+        "author": "Romain Dillet",
+        "title": "A walk around Station F with Emmanuel Macron",
+        "description": "“We called this building Station F, like Station France, Station Femmes [ed. note: women in French], Station Founders or Station Freyssinet because..",
+        "url": "https://techcrunch.com/2017/07/01/a-walk-around-station-f-with-emmanuel-macron/",
+        "urlToImage": "https://tctechcrunch2011.files.wordpress.com/2017/06/station-f-emmanuel-macron-9.jpg?w=764&h=400&crop=1",
+        "publishedAt": "2017-07-01T09:47:38Z"
+    }]
+}

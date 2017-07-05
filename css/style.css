@@ -1,0 +1,9 @@
+body{
+    margin-top: 65px;
+    background-color: #DBE3E2;
+}
+.banner{
+    background-image: url('../images/white_background.png');
+    background-position: center;
+    padding: 10%;
+}

@@ -1,0 +1,2 @@
+# pata news
+    news app
