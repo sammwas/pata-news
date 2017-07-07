@@ -15,28 +15,28 @@ $(document).ready(function (){
         });
         console.log(news.articles[0]);
         for(var i = 0; i<news.articles.length;i++){
-             $('#newsOutlet').html(`
+             $('#newsOutlet').append(`
             <div class="col-md-4">
                 <div class="thumbnail">
-                    <img src="${news.articles[0].urlToImage}" alt="" class="img-responsive">
+                    <img src="${news.articles[i].urlToImage}" alt="" class="img-responsive">
                     <div class="caption">
                         <div class="row">
-                            <div class="col-md-6">
-                                <h4 class="text-primary">${news.articles[0].title}</h4>
-                            </div>
-                            <div class="col-md-6">
-                                <p class="">date posted: ${news.articles[0].publishedAt}</p>
+                            <div class="col-md-12">
+                                <h4 class="text-primary">${news.articles[i].title}</h4>
                             </div>
                         </div>
                          <hr>  
-                         <p>${news.articles[0].description}</p> <hr>
+                         <div class="small">
+                                <p class="">date posted: ${news.articles[i].publishedAt}</p>
+                            </div>
+                         <p>${news.articles[i].description}</p> <hr>
                          <div class='row'>
                          <div class='col-md-6'>
-                         Author: ${news.articles[0].author}
+                         Author: ${news.articles[i].author}
                          Source: ${news.source}
                          </div>
                          <div class='col-md-6'>
-                         <a href=" ${news.articles[0].url}" class="btn btn-warning" target='_blank'>Read more</a>
+                         <a href=" ${news.articles[i].url}" class="btn btn-warning" target='_blank'>Read more</a>
                          </div>
                          </div>
                     </div>
