@@ -14,3 +14,5 @@
 ####    adding on to the [ ideas.md](mdFiles/ideas.md)  
     file; this is the file that we include all the ideas we have for the project and 
     everything that we would like to improve in the near future
+
+#### [how to contribute](mdFiles/contribution.md)
