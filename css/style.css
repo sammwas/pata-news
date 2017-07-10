@@ -8,5 +8,5 @@ body{
     padding: 10%;
 }
 .thumbnail{
-    
+    min-height: 550px;
 }
