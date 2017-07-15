@@ -1,6 +1,6 @@
 $(document).ready(function (){
     $.ajax({
-        url: 'https://newsapi.org/v1/articles?source=techcrunch&apiKey=4e8acb59908c4382b657f635887fb46d'
+        url: 'https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=4e8acb59908c4382b657f635887fb46d'
     }).done(function (news){
         //console.log(news.articles);
 

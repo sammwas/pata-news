@@ -9,4 +9,11 @@ body{
 }
 .thumbnail{
     min-height: 550px;
+    
+}
+.thumbnail img{
+    max-height: 180px;
+}
+.footer{
+    background: rgba(166, 177, 176,0.7);
 }
